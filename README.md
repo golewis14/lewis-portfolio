@@ -13,10 +13,9 @@ During my time in Panama, I taught English in a high school, gave professional d
 By taking this course I hope to learn the different aspects of data visualization and be more creative in designing presentations using data. I would like to become more intentional about how I use data to relay information. From these skills, I would like my work to become clearer and more visually appealing. Additionally, I would like to learn about and how to use the different data visualization platforms being used today! 
 
 # My Portfolio
+Enjoy!
 
-
-# General Government Debt
-
+# Part 1: Visualization of OECD's Data
 
 [govt debt graph]/(govt.debt.md)
 

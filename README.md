@@ -40,9 +40,15 @@ Enjoy!
  
 Data Source: OECD https://data.oecd.org/gga/general-government-debt.htm
  
- 
- 
- 
+This horizon chart is portraying the same data as the beesworm plot directly above but is using a gradient scale of color to show changes in total GDP percentages over the years 1996-2018.
+
+
+
+Data Visualization Methods used in Beesworm plot vs. Horizon Chart:
+
+Both of the beesworm plot and horizon chart show the gross debt of the general government as a percentage of GDP and how those percentages are different across numerous years and countries. The beesworm plot uses shape, displaying different sized circles to represent larger and smaller percentages of GDP. In contrast, the horizon chart uses color saturation to indicate a difference in values (Berinato,46). As expected, lighter purples represent lower percentages while darker purples are higher percentages. Both, when in black and white can convey the information but in the horizon chart I took the opportunity to use variations of one color to inform the viewer. While I did use color in the horizon chart, I tried to limit its use by saturating one color compared to having each country its own color. 
+These two data visualizations also contrast in the way they portray time. The beesworm plots use of circles creates much more white space and this made data points distinct and clear (Coale,196). But by giving them so much room it makes them out to be more of individualized points making it harder to draw a connection over time. In the horizon chart, having all of the data for each country together in one string makes it easier to see how the data changed over time within that country and in relation to the other countries. I chose the horizon chart to visualize the data specifically for that reason. Finding a chart that made it easy to show the varying percentages over time was an important so the viewer could make that connection easier. While white space does become limited in the data visualization I chose, I think the gradation of color within each band or country better tells the story of general debt as a percentage of GDP throughout the years. 
+
  
  
  

@@ -72,7 +72,7 @@ These two data visualizations also contrast in the way they portray time. The be
  
  
  
- ![](images/original%20graph.JPG)
+ ![](images/originalgraph.JPG)
  
  
  

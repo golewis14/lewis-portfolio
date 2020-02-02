@@ -73,6 +73,10 @@ First, I discovered the data set and visual that would fit the assignment and al
 
 When moving to creating the wireframe stage, I improved upon the orginal by changing it to a bar chart and limiting the words used in the title and the x-axis. As we did in a workbook exercise, I decided to not write out the entire state name but instead put the abbreviation right above the bar it belonged to. I found this to be a major improvement from the line graph becuase line graphs are better used when showing data over time and it was hard to see what point when to which state. 
 
+
+![](sketch.JPG)
+
+
 When asking for feedback I recieved the following responses:
 
 1. Can you tell me what you think this is?

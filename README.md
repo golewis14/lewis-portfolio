@@ -58,7 +58,9 @@ These two data visualizations also contrast in the way they portray time. The be
  
  
  
-  # Original Data Visualization
+ 
+ 
+# Original Data Visualization
  
  ![](originalgraph.JPG)
  

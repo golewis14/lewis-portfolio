@@ -44,12 +44,6 @@ This horizon chart is portraying the same data as the beesworm plot directly abo
 
 
 
-
-
-
-
-
-
 Data Visualization Methods used in Beesworm plot vs. Horizon Chart:
 
 
@@ -67,6 +61,13 @@ These two data visualizations also contrast in the way they portray time. The be
   # Original Data Visualization
  
  ![](originalgraph.JPG)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 

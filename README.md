@@ -86,12 +86,12 @@ Telling which states have the most and least participants in the school lunch pr
 The scale is surprising. You write participants are in 1,000s meaning the actual participants are in millions which seems incorrect. 
 It is confusing how the first measure on the y-axis is 500k and then moves up to 100k, I think you meant 50k. Data doesnt make sense that way. 
 
-Who do you think is the intended audience for this?
+4. Who do you think is the intended audience for this?
 Policy analysts interested in childrens poverty levels per state.
 People looking to compare school lunch programs per state.
 
 
-Is there anything you would change or do differently?
+5. Is there anything you would change or do differently?
 I would change the y-axis to accuratly represent the participant level.
 If people were interested in knowing the actual number of participants in each state, I would want to have that information visible somewhere.
 

@@ -35,3 +35,22 @@ I believe so. A lot of information exists regarding the subject. Many reports an
 ![](storyarc.JPG)
 
 # Data
+
+There are numerous sources I plan to use as information and background sections of my final project to set context and also provide statistics. The sources I will be using the data from to visualize come from: Food and Agricultural Organization of the United Nations (FAO), Our World in Data, Goggle Trends, and a report from ResearchGate. The later two do not have excel spreadsheet I can access directly to create visualizations, but I can take the data from them and organize it myself potentially. 
+The FAO is a large source of information that is customizable to country and type of products produced. I plan to use this data to visualize how much meat is produced by the United States, and that we are the leading in cattle production. Similarly, the data from Our World Data provides productivity, yield and energy efficiency data on meat production. I plan to use this to show how we put a lot more in that we get out of producing meat at the rate we do. Additionally, they have data on the impact of production on the environment and land and water use that goes into it. 
+
+The report I found on the importance of reducing consumption for climate change provides data on food sources and contributions to climate change along with visuals on livestock contributions to climate change.  I do not have direct access to the data used in their visualization but figured I could use the numbers to recreate one of my own. Lastly, I see that there are Google Trends tracking interest in vegan and vegetarianism based on searches over time. I think this could be used to support my part of the story concerning the larger shift to meat free diets and that fact that there is a growing interest. 
+
+Data Links
+
+http://www.fao.org/faostat/en/#data   
+
+http://www.fao.org/faostat/en/#data/QL 
+
+https://ourworldindata.org/meat-production
+
+https://ourworldindata.org/environmental-impacts-of-food
+
+https://www.researchgate.net/publication/286920313_The_Importance_of_Reducing_Animal_Product_Consumption_and_Wasted_Food_in_Mitigating_Catastrophic_Climate_Change
+
+https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07_hy,%2Fm%2F07_jd

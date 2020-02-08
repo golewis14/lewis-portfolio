@@ -15,6 +15,7 @@ How do you plan to measure the success story?
 - Trends of veganism and development of non-meat products
 
 How many sections/chapters do you this you will need?
+
 I think I will need around eight section or chapters. Outlined as follows:
 1.	Effects of Climate Change in Future
 2.	Lead Contributing Activities (highlighting meat/poultry production)
@@ -26,5 +27,6 @@ I think I will need around eight section or chapters. Outlined as follows:
 8.	Call to action: The audience can adopt new diet entirely, participate in “meatless Mondays”, try to consume less at their own pace and choice
 
 Do you have enough time and resources? Anticipated challenges?
+
 I believe so. A lot of information exists regarding the subject. Many reports and papers have been done, it was a little difficult getting access to some raw data but I found some I think will be useful to tell my story. I think it is challenging to narrow things to do with climate change to one area but I hope to keep it centered around the food aspect so the audience comes away with a single concrete thing to do for change. 
 

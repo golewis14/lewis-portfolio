@@ -54,3 +54,13 @@ https://ourworldindata.org/environmental-impacts-of-food
 https://www.researchgate.net/publication/286920313_The_Importance_of_Reducing_Animal_Product_Consumption_and_Wasted_Food_in_Mitigating_Catastrophic_Climate_Change
 
 https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07_hy,%2Fm%2F07_jd
+
+
+# Method & Medium 
+
+I plan to complete my final project using Shorthand. I like to scroll features and imagery used in the example projects from past classes. I hope to incorporate a similar technique. I do not know much about Shorthand but after this weeks class I think I will have a clearer idea of my method and exactly what I plan to do on Shorthand and how. 
+
+As of right now, I hope to have no more than 3 or 4 graphs or charts. These will probably used to present the contributions by agriculture and livestock to climate change, the US’s role in production overtime and trends in non-meat diets. I would like to try to visualize the numbers on how much an individual saves in resources through icons and numbers or organize it in an info graphic way verses a line or bar graph. Basically representing areas of data without using an axis. 
+
+I plan to create a timeline to visualize the history of food production in the US. Overall, I would like to use text on top of background imagery. I do have concerns about having such high quality photos as the examples I saw. I think that is an important aspect of the entire story. When completing the project I will go through each of the sections above to add additional text and appropriate visualizations for each section. Once those are compiled I would like to use Shorthand to put them all in sequence and add titles, breaks and images. I have yet to commit to anything because I am confident in this weeks classes providing with an overall vision and execution plan. 
+

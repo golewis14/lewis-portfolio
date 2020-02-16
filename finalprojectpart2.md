@@ -15,7 +15,7 @@ A. Target Audience:
 My story is targeting a broad audience. Mainly anyone in the US unaware of how largely food plays into climate change and the environment. I am aiming to reach those who may even know some but have or have not considered what the slightest change in their diet could do to improve the world's condition. In my interviews I hope to get as much of a range as possible of people (demographically and diet wise) to better tell my story to reach a grander audience. The more people I can appeal to with my story the greater impact it will have.
 
 B. Identifying Interviewees:
-Having quite a few different people to choose from to interview, I had to decide those who would provide different perspectives and are familiar and unfamiliar with the story. Not only that, I wanted to make sure to have at least one in person interview to be able to see the reaction or faces of confusion that may not translate virtually. I decided to choose a single mid-twenties graduate student male(1), my older meat eating mom(2), and my 14 year old niece(3). I think my interviewees have been exposed to this topic in different ways and I wonder how engaging the story will be to those more or less familiar and how that will impact them. Additionally, two of the three individuals are from different regions of the US and all of them live in different states and have different lifestyles now. 
+Having quite a few different people to choose from to interview, I had to decide those who would provide different perspectives and are familiar and unfamiliar with the story. Not only that, I wanted to make sure to have at least one in person interview to be able to see the reaction or faces of confusion that may not translate virtually. I decided to choose a single mid-twenties graduate student male(1), my older meat eating mom(2), and my 14 year old niece(3). These three are vastly different in age and will hopefully provide me with different perspectives. I think my interviewees have been exposed to this topic in different ways and I wonder how engaging the story will be to those more or less familiar and how that will impact them. Additionally, two of the three individuals are from different regions of the US and all of them live in different states and have different lifestyles now. 
 
 
 Goals:
@@ -33,6 +33,8 @@ Method:
 C. SCRIPT
 
 Introduction: I am familiar with everyone I am interviewing so I will give them background on what I am doing as far as the assignment and what my story is about. This is a brief overview because I do not want to say too much beforehand but rather let the storyboard tell itself. I will let them know I have some questions for them to answer honestly and that I will be taking notes to help me use their commentary to revise and edit my project.
+
+"Hello, thank you for helping me with my assignment. I am doing a project that will tell a story using research collected and made into data visualizations and explaination leading toward a call to action. I would like you to take a minute to look through the storyboard and get an initial idea of my story. I will then ask you a set of questions I have prepared and feel free to answer honestly and ask any questions that you may have. Thanks again!"
 
 Questions Asked:
 

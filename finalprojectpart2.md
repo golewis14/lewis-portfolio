@@ -125,7 +125,7 @@ I think one of my interviewees feedback regarding an additional section for the 
 - Captivating data visuals that are not bar or pie charts, straying from the typical data viz to more graphic imaging and shapes to portray information (the parts of the original that were unusual prompted the view to ask questions and think more into it, so I would like to incorporate that somehow without being outright unclear)
 
 
-
+# Revised Wireframes/Storyboard
 
 
 

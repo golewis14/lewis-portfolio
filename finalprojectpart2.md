@@ -110,6 +110,21 @@ Person 3: To know that our Earth would die if I kept eating it.
 
 D. Interview Findings:
 
+Feedback I received from the interviews was somewhat helpful in moving forward. Having talked to three completely different individuals it was interesting to see what their take was on the story. The graduate student found things to be clear, my mom was hung up on small details and better titles and flow, and my niece was not that engaged and very teenager-like. Regardless, it made me think of ways to appeal to such a large audience all at once. I am sure some people prefer different styles. Maybe having more interactive features is better for the youth, and being more explicit with what I am doing would have allowed my mom to better follow the story. I will say I thought some of the devices used were intuitive but the arrows indicating increases and decreases in effects of climate change was not well received by two out of three of my interviewees. 
+
+Something I did notice despite how confusing or clear the storyboard is, was that they all came away with a similar message which I was happy to hear. This signals to me that the takeaway from my story is being heard, I think the internal aspects and details can be improved and more informative. My titles need to be more descriptive and connected, everything flows in my head but I must make things clearer and say them outright for the reader.
+
+E. Changes Implemented from Interviews:
+
+The graphs on my initial storyboard are not the ones I plan to keep. Those are originals from some of my sources and I figured they would be better place holders than a Balsamiq icon. I am glad I used them because people often reacted positively to the use of color. From class I know this should be kept limited but I am going to try and incorporate color to draw attention to key areas of visualization and statements I want to make.
+
+I think one of my interviewees feedback regarding an additional section for the use of resources in vegetable production and other areas was a valid point. I will add a comparator next to meat production as a way to view the differences and hopefully emphasize the point that so much more natural resources are used when producing meat. Also I am adding how not only US contributes but breaking out into a small section on developing countries to show more context. When countries further develop meat consumption rises. All of this is problematic for the sake of climate change which is why I think it could be beneficial to add. Other changes include:
+
+- More detailed, captivating titles and subtitles
+- Specific examples of actions that can be taken instead of a general call to action (ie. Meatless Mondays, etc.)
+- Captivating data visuals that are not bar or pie charts, straying from the typical data viz to more graphic imaging and shapes to portray information (the parts of the original that were unusual prompted the view to ask questions and think more into it, so I would like to incorporate that somehow without being outright unclear)
+
+
 
 
 

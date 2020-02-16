@@ -48,12 +48,16 @@ Questions Asked:
 Responses to Questions: 
 
 Q1.
+
 Person 1: Umm, yes.
+
 Person 2: Well I could follow it by reading it, I dont know what some of it has to do with the other. 
+
 Person 3: Yes, sure.
 
 
 Q2.
+
 Person 1: Nothing I can think of it makes sense. I didnt understand the text blocks with nothing in them. Also the major contributors section could be clearer, what that arrow to the pie graph is indicating.
 
 Person 2: First you're talking about climate change and then it goes to food history. US contribution to what? The people's response to what? Less meat? I dont know what that is about. It seems disconnected to me. 
@@ -61,6 +65,7 @@ Person 2: First you're talking about climate change and then it goes to food his
 Person 3: I dont know what the frowny face and arrows are doing.
 
 Q3.
+
 Person 1: What the impacts are of being vegan.
 
 Person 2: Umm, no I dont have any questions, am I supposed to?
@@ -68,6 +73,7 @@ Person 2: Umm, no I dont have any questions, am I supposed to?
 Person 3: No, I kinda know about food and climate change. I think the sequence and contents make sense. 
 
 Q4.
+
 Person 1: The white space. How much meat production plays into climate change.
 
 Person 2: That it is going to be fun figuring out a title. I like the pie chart. 
@@ -75,6 +81,7 @@ Person 2: That it is going to be fun figuring out a title. I like the pie chart.
 Person 3: The colorful graph.
 
 Q5.
+
 Person 1: Easy things I can do, examples of sustitutes or practices people use. I would like to know more about what impact there is on an individual level. Also, you have "use of resources of meat production" I wonder what that is compared to vegetable production. How much more meat actutally consumes of resources. 
 
 Person 2: I cant read it, its too small so larger text. Maybe what can be done to make things better, to slow climate change down. Whose responsibility is it?
@@ -82,6 +89,7 @@ Person 2: I cant read it, its too small so larger text. Maybe what can be done t
 Person 3: No, I dont think so.
 
 Q6.
+
 Person 1: That our food choices play a role in climate change.
 
 Person 2: That the consumption of meat is making climate change worsen.
@@ -90,6 +98,7 @@ Person 3: Why people should stop eating meat, save the climate of the Earth.
 
 
 Q7.
+
 Person 1: The health impacts, climate impacts, and maybe animals dying...I dont super care about animals dying. 
 
 Person 2: Just keep hearing how bad it is to the environment and yourself, the other ways to get protein. 

@@ -4,8 +4,8 @@
 
 # Wireframes/Storyboard for User Feedback
 
-[Storyboard](PART 2 Storyboard.png)
-[storyboard](pdfstory.pdf)
+
+[Storyboard](pdfstory.pdf)
 
 
 # User Research Protocol and Interviews

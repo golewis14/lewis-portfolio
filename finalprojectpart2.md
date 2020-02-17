@@ -131,5 +131,5 @@ https://carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/index.
 
 Embed code from shorthand did not work so here is the web address for access. Enjoy!
 
-[shorthand](https://carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/index.html)
+
 

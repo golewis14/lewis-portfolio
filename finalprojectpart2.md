@@ -127,7 +127,6 @@ I think one of my interviewees feedback regarding an additional section for the 
 
 # Revised Wireframes/Storyboard
 
-<script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/"><h1> Climate Change and No Chill </h1><p>   Our production and consumption of food has devastating impacts on the environment. Making change on some level will help alter our future for the better.   </p></div>
+https://carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/index.html
 
 

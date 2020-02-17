@@ -129,4 +129,6 @@ I think one of my interviewees feedback regarding an additional section for the 
 
 https://carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/index.html
 
+Embed code from shorthand did not work so here is the web address for access. Enjoy!
+
 

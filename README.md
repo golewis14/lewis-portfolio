@@ -16,7 +16,7 @@ By taking this course I hope to learn the different aspects of data visualizatio
 
 1. [Assignment Visualization of OECD](/part1.md)
 
-2. [Assignment Revised Visual](/part2.md)
+2. [Assignment Revised Visual](/assign1.md)
 
 3. [Final Project Part 1](/finalprojectpart1.md)
 

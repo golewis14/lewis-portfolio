@@ -30,7 +30,7 @@ Do you have enough time and resources? Anticipated challenges?
 
 I believe so. A lot of information exists regarding the subject. Many reports and papers have been done, it was a little difficult getting access to some raw data but I found some I think will be useful to tell my story. I think it is challenging to narrow things to do with climate change to one area but I hope to keep it centered around the food aspect so the audience comes away with a single concrete thing to do for change. 
 
-# Story Arc
+# Story Arc & Sketches
 
 ![](storyarc.JPG)
 ![](timeline.JPG)

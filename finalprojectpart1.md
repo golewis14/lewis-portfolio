@@ -33,6 +33,9 @@ I believe so. A lot of information exists regarding the subject. Many reports an
 # Story Arc
 
 ![](storyarc.JPG)
+![](timeline.JPG)
+![](temp.JPG)
+![](sketchgraph.JPG)
 
 # Data
 

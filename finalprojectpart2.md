@@ -131,3 +131,5 @@ I think one of my interviewees feedback regarding an additional section for the 
 
 [SHORTHAND](https://carnegiemellon.shorthandstories.com/-climate-change-and-no-chill-/index.html)
 
+Note that this is now my final revised project and not what it once was in shorthand since I have revised and republished in parts 3 and 4. 
+

@@ -36,6 +36,7 @@ I believe so. A lot of information exists regarding the subject. Many reports an
 ![](timeline.JPG)
 ![](temp.JPG)
 ![](skecthgraph.JPG)
+![](resources.JPG)
 
 # Data
 

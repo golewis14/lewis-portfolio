@@ -13,16 +13,16 @@ During my time in Panama, I taught English in a high school, gave professional d
 By taking this course I hope to learn the different aspects of data visualization and be more creative in designing presentations using data. I would like to become more intentional about how I use data to relay information. From these skills, I would like my work to become clearer and more visually appealing. Additionally, I would like to learn about and how to use the different data visualization platforms being used today! 
 
 # My Portfolio
-Enjoy!
-[Assignment Visualization of OECD](/part1.md)
 
+1. [Assignment Visualization of OECD](/part1.md)
 
-# Final Project Parts
-[Final Project Part 1](/finalprojectpart1.md)
+2. [Assignment Revised Visual](/part2.md)
 
-[Final Project Part 2](/finalprojectpart2.md)
+3. [Final Project Part 1](/finalprojectpart1.md)
 
-[Final Project Part 3](/finalprojectpart3.md)
+4. [Final Project Part 2](/finalprojectpart2.md)
+
+5. [Final Project Part 3](/finalprojectpart3.md)
 
 # Visualization of OECD's Data
 

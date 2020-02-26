@@ -35,7 +35,7 @@ I believe so. A lot of information exists regarding the subject. Many reports an
 ![](storyarc.JPG)
 ![](timeline.JPG)
 ![](temp.JPG)
-![](sketchgraph.JPG)
+![](skecthgraph.JPG)
 
 # Data
 

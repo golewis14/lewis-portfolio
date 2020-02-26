@@ -14,6 +14,8 @@ By taking this course I hope to learn the different aspects of data visualizatio
 
 # My Portfolio
 Enjoy!
+[Assignment Visualization of OECD](/part1.md)
+
 
 # Final Project Parts
 [Final Project Part 1](/finalprojectpart1.md)

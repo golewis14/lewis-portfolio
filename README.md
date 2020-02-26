@@ -20,7 +20,7 @@ Enjoy!
 
 [Final Project Part 2](/finalprojectpart2.md)
 
-
+[Final Project Part 3](/finalprojectpart3.md)
 
 # Visualization of OECD's Data
 

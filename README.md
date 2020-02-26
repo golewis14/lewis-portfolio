@@ -24,3 +24,4 @@ By taking this course I hope to learn the different aspects of data visualizatio
 
 5. [Final Project Part 3](/finalprojectpart3.md)
 
+Enjoy!

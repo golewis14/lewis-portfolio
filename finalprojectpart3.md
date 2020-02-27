@@ -17,7 +17,10 @@ Link to final data story:
 
 
 
-Data, sites, articles used in entire project process. Note that all information incorportated into the final project is referenced and cited at the end of the final project on Shorthand page. 
+# Data, sites, articles used in entire project process. 
+
+
+Note that all information incorportated into the final project is referenced and cited at the end of the final project on Shorthand page. 
 
 https://www.peta.org/blog/meat-industry-wastes-water/
 
